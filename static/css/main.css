@@ -1,0 +1,35 @@
+#top-header {
+    /* padding: 35px; */
+    /* padding: 35px 0 35px 0; */
+    padding: 35px 0;
+}
+
+body {
+    background-color: #F1F1F1;
+}
+
+article {
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.article-border {
+    padding: 30px 20px;
+}
+
+.article-border > h3, .article-border > small {
+    font-weight: bold;
+}
+
+.article-border > small {
+    /* padding: 15px 0; */
+}
+
+/* .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+} */
+
+#interesting img {
+    margin-bottom: 15px;
+}
